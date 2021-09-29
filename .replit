@@ -1,0 +1,158 @@
+exports.textmenubaru = (prefix ,pushname , premiumm , _registeredd , colooo, todd, updaterr) => {
+    return `
+Hi Kak ${pushname}👋️
+Selamat Datang Di AFS BOT
+
+Jam: *${todd}*
+Total userAFS : ${colooo.length}
+
+Untuk melihat update fitur terbaru
+Silahkan ketik *${prefix}𝙪𝙥𝙙𝙖𝙩𝙚*
+
+Berikut fitur yang dapat di gunakan pada bot ini✨
+
+ _*Menu Penting*_
+
++ *${prefix}sticker*
++ *${prefix}donasi*
++ *${prefix}botstat*
++ *${prefix}ownerbot*
++ *${prefix}tts*
++ *${prefix}join*
++ *${prefix}stimg*
++ *${prefix}hilih*
++ *${prefix}getpic*
++ *${prefix}ganteng*
++ *${prefix}apakah*
+(ketik *${prefix}menupenting* untuk cara penggunaan)
+
+  _*Menu Download*_
+ 
++ *${prefix}ytmp3*
++ *${prefix}ytmp4*
++ *${prefix}play*
++ *${prefix}joox*
++ *${prefix}tiktok*
++ *${prefix}instagram*
++ *${prefix}vtwitter*
++ *${prefix}snack*
++ *${prefix}soundcloud*
++ *${prefix}cocofun*
++ *${prefix}mediafire*
+(ketik *${prefix}menudownload* untuk cara penggunaan)
+
+  _*Menu Hiburan*_
+ 
++ *${prefix}stickergif*
++ *${prefix}stickergiphy*
++ *${prefix}quotemaker*
++ *${prefix}artinama*
++ *${prefix}cekjodoh*
++ *${prefix}cuaca*
++ *${prefix}chord*
++ *${prefix}lirik*
++ *${prefix}cekzodiak*
++ *${prefix}motivasi*
++ *${prefix}ptl*
++ *${prefix}family100*
++ *${prefix}tebakgambar*
++ *${prefix}koin*
++ *${prefix}findsticker*
++ *${prefix}reminder*
++ *${prefix}katasenja*
++ *${prefix}fiersa*
++ *${prefix}darkjokes*
++ *${prefix}memeindo*
++ *${prefix}img*
++ *${prefix}heroml*
++ *${prefix}citacita*
++ *${prefix}lord*
+(ketik *${prefix}menuhiburan* untuk cara penggunaan)
+
+  _*Alat*_
+
++ *${prefix}images*
++ *${prefix}sreddit*
++ *${prefix}resep*
++ *${prefix}igstalk*
++ *${prefix}wiki*
++ *${prefix}kbbi*
++ *${prefix}brainly*
++ *${prefix}fakta*
++ *${prefix}pantun*
++ *${prefix}katabijak*
++ *${prefix}quote*
++ *${prefix}covidindo*
++ *${prefix}ceklokasi*
++ *${prefix}shortlink*
++ *${prefix}bapakfont*
++ *${prefix}maps*
++ *${prefix}jadian*
++ *${prefix}addpoll*
++ *${prefix}gempa*
++ *${prefix}playstore*
++ *${prefix}happymod*
++ *${prefix}moddroid*
++ *${prefix}nulishd
+(ketik *${prefix}mentol* untuk cara penggunaan)
+
+  _*Menu Tobat*_
+ 
++ *${prefix}infosurah*
++ *${prefix}surah*
++ *${prefix}tafsir*
++ *${prefix}ALaudio*
++ *${prefix}js*
+(ketik *${prefix}menutobat* untuk cara penggunaan)
+
+  _*Wibu $ KPOP Area*_
+ 
++ *${prefix}whatanime*
++ *${prefix}anime*
++ *${prefix}kpop*
++ *${prefix}memes*
++ *${prefix}Wallpaperanime2*
++ *${prefix}nhder*
++ *${prefix}fetish*
++ *${prefix}loli*
++ *${prefix}shota*
+(ketik *${prefix}wibuarea* untuk cara penggunaan)
+
+ _*Image Maker*_
+ 
++ *${prefix}namefootball*
++ *${prefix}spiderman*
++ *${prefix}glow*
++ *${prefix}peace*
++ *${prefix}firework*
++ *${prefix}battlefield*
++ *${prefix}textbokeh*
++ *${prefix}glitch*
++ *${prefix}hartatahta*
++ *${prefix}avengers*
++ *${prefix}pubg*
++ *${prefix}naruto*
++ *${prefix}thunder*
++ *${prefix}trumptweet*
++ *${prefix}phcomment*
++ *${prefix}blackpink*
++ *${prefix}ph*
++ *${prefix}hartatahta2*
++ *${prefix}ttp*
++ *${prefix}mememaker*
++ *${prefix}lion*
++ *${prefix}ninja*
++ *${prefix}joker*
++ *${prefix}metal*
++ *${prefix}stolol*
+ (ketik *${prefix}imagemaker* untuk cara penggunaan)
+
+*${prefix}bugreport*
+Untuk melaporkan bug ! masalah ke owner
+Usage: ketik !bugreport masalahnya
+
+
+Selamat menikmati✨
+_made with_❤️ @AFSbot`
+
+}
